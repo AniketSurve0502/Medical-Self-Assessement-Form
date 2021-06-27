@@ -1,0 +1,65 @@
+*{
+	margin:  0;
+	padding: 0;
+	font-family: "montserrat",sans-serif;
+}
+
+
+
+.login-section h1{
+	text-align: center;
+	color: #00ff00;
+}
+
+.login-section h2{
+	text-align: center;
+	color: ;
+}
+
+.border{
+	width: 250px;
+	height: 10px;
+	background: #56d8e4;
+	margin: 40px auto;
+}
+
+.contact-form{
+	max-width: 600px;
+	margin: auto;
+	padding: 0 10px;
+	overflow: hidden;
+}
+
+.contact-form{
+	display: ;
+	width: 100%;
+	box-sizing: border-box;
+	margin: 16px 0px;
+	border: 0;
+	background: #71b7e6;
+	padding: 20px 40px;
+	outline: none;
+	color: #ddd;
+	transition: 0.5s;
+}
+
+.contact-form-text:focus{
+	box-shadow: 0 0 10px 4px #56d8e4;
+
+}
+
+.contact-form-btn{
+	float right;
+	border: 0;
+	background: #34495e;
+	color: #fff;
+	padding: 12px 50px;
+	border-radius: 20px;
+	cursor: pointer;
+	transition: 0.5s;
+}
+
+.contact-form-btn:hover{
+	background: #;
+
+}
